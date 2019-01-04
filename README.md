@@ -1,0 +1,1 @@
+Alpine based docker image with aws-cli and make
